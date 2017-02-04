@@ -1,0 +1,3 @@
+ruby ack.rb 0 0 -> 1
+ruby ack.rb 3 3 -> 61
+ruby ack.rb 4 3 -> SystemStackError
